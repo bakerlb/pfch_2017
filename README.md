@@ -1,6 +1,6 @@
 # pfch_2017
 
-This repository contains code used to explore the New York Public Library Ensemble website: http://ensemble.nypl.org/.
+This repository contains code used to explore the New York Public Library Ensemble website: http://ensemble.nypl.org/about.
 
 The repository contains four folders. The Main Code folder contains the Python code files. The File Outputs folder contains the files output by the main Python code files. The Pairings folder contains the code and files output used to match directors with actors, directors with headliners, playwrights with actors, playwrights with headliners, and producers with headliners. The Visualizations folder contains all of the files used to create the visualizations for the project.
 
